@@ -10,7 +10,7 @@ public class SemiTruck extends Vehicle{
 
     public void unloadCargo(){
         System.out.println("Unloading boxes... remember to lift with your legs" +
-                "and not your back.");
+                " and not your back.");
     }
 
     public int getNumberOfTrailers() {

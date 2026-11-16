@@ -6,7 +6,7 @@ public class Hovercraft extends Vehicle{
 
     public void hover(){
         System.out.println("Now entering hover mode. Woahhh, this is like something" +
-                "out of The Jetsons!");
+                " out of The Jetsons!");
     }
 
     public int getAirCushionPressure() {
