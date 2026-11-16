@@ -11,19 +11,19 @@ public class Vehicle {
 
 
     public void startEngine(){
-
+        System.out.println("Listen to that engine purrrr");
     }
 
     public void stopEngine(){
-
+        System.out.println("Don't forget your keys");
     }
 
     public void accelerate() {
-
+        System.out.println("Vroom, vroom skrrrrr");
     }
 
     public void brake(){
-
+        System.out.println("Screeeeeeech, phew you almost killed grandma!");
     }
 
     public String getModel() {
